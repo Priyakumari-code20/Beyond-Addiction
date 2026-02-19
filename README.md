@@ -2,7 +2,7 @@
 
 A Gamified Neural Rewiring & Habit Recovery Suite
 
-<h2>📌 Overview </h2>h2>
+<h2>📌 Overview </h2>
 
 Beyond Addiction is a data-driven habit tracking and recovery platform designed to help users overcome digital addiction and build stronger self-control. Unlike basic reminder apps, this system combines streak tracking, behavioral analytics, and gamification to keep users motivated and consistent.
 
