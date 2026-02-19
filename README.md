@@ -41,7 +41,7 @@ Create a supportive and user-friendly recovery environment
 
 💻 CLI + Interactive Dashboard
 
-![download](https://github.com/user-attachments/assets/8d7fead9-99c8-4748-ab85-855860cf14fc) Chatbot
+<h2>🤖 AI Chatbot Support</h2>
 
 🛠️ Tech Stack
 
