@@ -46,8 +46,13 @@ Create a supportive and user-friendly recovery environment
 Built for speed and portability. No heavy frameworks, no build steps required.
 
 Core: HTML5, Vanilla JavaScript (ES6+)
+
 Styling: Tailwind CSS (via CDN for portability)
+
 Icons: Font Awesome 6 & Phosphor Icons
+
 Animation: Anime.js & CSS Keyframes
+
 Charts: Chart.js (Analytics Visualization)
+
 Data: LocalStorage API (Client-side persistence)
