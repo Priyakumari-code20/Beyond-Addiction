@@ -1,19 +1,19 @@
-🌿 Beyond Addiction
+<h2>🌿 Beyond Addiction </h2>
 
 A Gamified Neural Rewiring & Habit Recovery Suite
 
-📌 Overview
+<h2>📌 Overview <h2>
 
 Beyond Addiction is a data-driven habit tracking and recovery platform designed to help users overcome digital addiction and build stronger self-control. Unlike basic reminder apps, this system combines streak tracking, behavioral analytics, and gamification to keep users motivated and consistent.
 
 The goal is simple:
 Track. Understand. Improve. Repeat.
 
-🚨 Problem Statement
+<h2>🚨 Problem Statement </h2>
 
 Many people struggle with digital addiction and unhealthy habits, but most existing tools only provide simple reminders without helping users understand their behavior patterns. There is a need for a system that not only tracks progress but also motivates long-term consistency through meaningful insights and engagement. Purity Protocol addresses this gap by offering an interactive and data-driven platform that supports sustainable habit change.
 
-🎯 Objectives
+<h2> 🎯 Objectives </h2>
 
 Track daily habit consistency using streak systems
 
@@ -25,7 +25,7 @@ Offer journaling and reflection features
 
 Create a supportive and user-friendly recovery environment
 
-✨ Features
+<h2>✨ Features </h2>
 
 📅 Streak Tracking System
 
@@ -41,25 +41,25 @@ Create a supportive and user-friendly recovery environment
 
 💻 CLI + Interactive Dashboard
 
-<h2>🤖 AI Chatbot Support</h2>
+<h6>🤖 AI Chatbot Support</h6>
 
-🛠️ Tech Stack
+<h2>🛠️ Tech Stack </h2>
 
 Built for speed and portability. No heavy frameworks, no build steps required.
 
-Core: HTML5, Vanilla JavaScript (ES6+)
+<b>Core: </b>HTML5, Vanilla JavaScript (ES6+)
 
-Styling: Tailwind CSS (via CDN for portability)
+<b>Styling: </b>Tailwind CSS (via CDN for portability)
 
-Icons: Font Awesome 6 & Phosphor Icons
+<b>Icons: <b>Font Awesome 6 & Phosphor Icons
 
-Animation: Anime.js & CSS Keyframes
+<b>Animation: </b>Anime.js & CSS Keyframes
 
-Charts: Chart.js (Analytics Visualization)
+<b>Charts: </b>Chart.js (Analytics Visualization)
 
-Data: LocalStorage API (Client-side persistence)
+<b>Data: </b>LocalStorage API (Client-side persistence)
 
-Chatbot Technologies :
+<b>Chatbot Technologies : </b>
 
 Hugging Face LLMs for natural language understanding
 
