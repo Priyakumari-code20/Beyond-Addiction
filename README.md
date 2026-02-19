@@ -41,6 +41,8 @@ Create a supportive and user-friendly recovery environment
 
 💻 CLI + Interactive Dashboard
 
+![download](https://github.com/user-attachments/assets/8d7fead9-99c8-4748-ab85-855860cf14fc) Chatbot
+
 🛠️ Tech Stack
 
 Built for speed and portability. No heavy frameworks, no build steps required.
@@ -56,3 +58,15 @@ Animation: Anime.js & CSS Keyframes
 Charts: Chart.js (Analytics Visualization)
 
 Data: LocalStorage API (Client-side persistence)
+
+Chatbot Technologies :
+
+Hugging Face LLMs for natural language understanding
+
+FAISS for fast vector similarity search
+
+LangChain (1.x) for orchestration
+
+Streamlit for an interactive chat-based UI
+
+Vector DB for RAG PIPELINE
