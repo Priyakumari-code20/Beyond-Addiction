@@ -1,4 +1,4 @@
-🌿 Beyonnd Addiction
+🌿 Beyond Addiction
 
 A Gamified Neural Rewiring & Habit Recovery Suite
 
